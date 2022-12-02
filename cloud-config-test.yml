@@ -10,4 +10,4 @@ spring:
       max-active: 30
       max-wait: 50000
 value:
-  name: cck
+  name: cck1111
